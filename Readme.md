@@ -1,13 +1,14 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────┐
-│                                      │
-│        A K A S H   J                 │
-│                                      │
-│                                      │
-└──────────────────────────────────────┘
+█████  █   █  █████  █████  █   █
+█   █  █  █   █   █  █      █   █
+█████  ███    █████  █████  █████
+█   █  █  █   █   █      █  █   █
+█   █  █   █  █   █  █████  █   █
 ```
+
+builder · ml · full stack
 
 </div>
 
@@ -23,20 +24,20 @@
 
 ### About Me
 
-I'm a third-year AI and ML student at VVCE, Mysore. I build things that sit between two worlds — models on one side, interfaces on the other.
+I'm a third-year AI and ML student at VVCE, Mysore. I build things that mix two skills nobody asked me to combine — model training and UI design.
 
-I got into AI to build smart systems. Most days, I'm just arguing with datasets.
+I got into AI to build smart systems. Most days, I just argue with datasets and lose.
 
-If a project is listed here, it runs. That's the only rule I keep.
+If a project is listed here, it runs. Mostly. I only show you the wins.
 
 <br>
 
 ### Current Focus
 
-- Sharpening DSA before placement season starts
-- Building apps with real backends, not just demos
-- Testing models harder instead of just training them faster
-- Reading other people's code so mine reads better too
+- Sharpening DSA before placement season catches me off guard
+- Building apps with real backends, since fake ones don't survive demo day
+- Testing models harder, because training them was always the easy part
+- Reading other people's code so mine eventually stops embarrassing me
 
 <br>
 
@@ -83,10 +84,10 @@ If a project is listed here, it runs. That's the only rule I keep.
 
 | Project | What it does | Built with | Link |
 |---|---|---|---|
-| **EmoTune** | Reads your face, picks your music | TensorFlow · OpenCV · Streamlit · Firebase | [Code](https://github.com/Akashj-aj/Moodify) |
-| **ShopSmart** | Bills, tracks, and remembers your inventory | Supabase · JavaScript | [Live](https://shopsmrt.netlify.app) · [Code](https://github.com/Akashj-aj/Retail_Billing_System) |
-| **Lumina Library** | Organizes and opens your eBooks | HTML · CSS · JavaScript | [Live](https://luminalibrary.netlify.app) · [Code](https://github.com/Akashj-aj/Lumina-Library) |
-| **Real Estate Price Prediction** | Guesses house prices, sometimes well | Scikit-learn · Pandas · NumPy | Internship project |
+| **EmoTune** | Reads your face, judges your mood, picks your music | TensorFlow · OpenCV · Streamlit · Firebase | [Code](https://github.com/Akashj-aj/Moodify) |
+| **ShopSmart** | Bills, tracks, and remembers stock better than I do | Supabase · JavaScript | [Live](https://shopsmrt.netlify.app) · [Code](https://github.com/Akashj-aj/Retail_Billing_System) |
+| **Lumina Library** | Organizes eBooks I will probably never finish reading | HTML · CSS · JavaScript | [Live](https://luminalibrary.netlify.app) · [Code](https://github.com/Akashj-aj/Lumina-Library) |
+| **Real Estate Price Prediction** | Guesses house prices, occasionally without lying | Scikit-learn · Pandas · NumPy | Internship project |
 
 <br>
 
@@ -94,10 +95,11 @@ If a project is listed here, it runs. That's the only rule I keep.
 
 - Most bugs take minutes. The annoying ones take days and a personality change.
 - If it runs the first time, I check again. Something is wrong.
-- Localhost is not a deployment plan.
+- Localhost is not a deployment plan, no matter how confident it feels.
 - A model that's 99% accurate on my own data is not a win. It's a warning.
 - Every project ends with more documentation than I planned to write.
-- Firebase says no by default. At 2 a.m., that feels personal.
+- Firebase says no by default. At 2 a.m., that feels like a personal attack.
+- Stack Overflow has seen every mistake I've made, and judged me quietly for it.
 
 <br>
 
@@ -106,10 +108,10 @@ If a project is listed here, it runs. That's the only rule I keep.
 ```bash
 akash@github:~$ status
 
-> Building: ShopSmart v2
-> Learning: DSA, slowly
-> Preparing: for placements
-> Fixing: bugs, one at a time
+> Building: ShopSmart v2, the sequel nobody requested
+> Learning: DSA, one painful problem at a time
+> Preparing: for placements, allegedly
+> Fixing: bugs I created an hour ago
 ```
 
 <br>
@@ -133,6 +135,6 @@ akash@github:~$ status
 
 <div align="center">
 
-Written by someone who debugs first and reads the docs after.
+Written by someone who reads the docs only after blaming the framework first.
 
 </div>
