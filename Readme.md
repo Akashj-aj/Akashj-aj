@@ -81,59 +81,43 @@ If you see it here, it works. If you don't see it here, it didn't. Simple.
 
 <div align="center"><h2>━━━━━━  STUFF THAT ACTUALLY WORKS  ━━━━━━</h2></div>
 
-### [01] EmoTune
-
-> Looks at your face, decides how you feel, and recommends music accordingly.
->
-> Surprisingly judgmental for a project.
-
-**Stack**  
-`TensorFlow` • `OpenCV` • `Streamlit` • `Firebase`
-
-**Link**  
-[Source Code](https://github.com/Akashj-aj/Moodify)
+### EmoTune 
+Looks at your face, decides how you feel, and recommends music accordingly.
+*Apparently better at reading moods than some people.*
+ 
+`TensorFlow` • `OpenCV` • `Streamlit` • `Firebase` • *Virtual Internship Project*
+ 
+• [Source Code](https://github.com/Akashj-aj/Moodify)
 
 ---
 
-### [02] ShopSmart
+###  ShopSmart
+Billing and inventory management system.
+*Created because spreadsheets deserve competition.*
 
-> Billing and inventory management system.
->
-> Created because spreadsheets deserve competition.
-
-**Stack**  
 `HTML` • `CSS` • `JavaScript` • `Supabase`
 
-**Links**  
-[Live Demo](https://shopsmrt.netlify.app) • [Source Code](https://github.com/Akashj-aj/Retail_Billing_System)
+• [Live Demo](https://shopsmrt.netlify.app) • [Source Code](https://github.com/Akashj-aj/Retail_Billing_System)
 
 ---
 
-### [03] Lumina Library
-
-> A digital library for organizing eBooks.
->
-> Proof that collecting books and reading books are two different hobbies.
-
-**Stack**  
+### Lumina Library
+A digital library for organizing eBooks.
+*Proof that collecting books and reading books are two different hobbies.*
+ 
 `HTML` • `CSS` • `JavaScript` • `Supabase`
-
-**Links**  
-[Live Demo](https://luminalibrary.netlify.app) • [Source Code](https://github.com/Akashj-aj/Lumina-Library)
+ 
+• [Live Demo](https://luminalibrary.netlify.app) • [Source Code](https://github.com/Akashj-aj/Lumina-Library)
 
 ---
 
-### [04] Real Estate Price Prediction
-
-> Predicts housing prices using regression models.
->
-> The predictions are useful. The actual house prices are still terrifying.
-
-**Stack**  
-`Scikit-learn` • `Pandas` • `NumPy`
-
-**Type**  
-Virtual Internship Project
+### Real Estate Price Prediction 
+Predicts housing prices using regression models.
+*The predictions are useful. The actual house prices are still terrifying.*
+  
+`Scikit-learn` • `Pandas` • `NumPy` • *Virtual Internship Project*
+ 
+• [Source Code](https://github.com/Akashj-aj/real-estate-prediction)
 
 <br>
 
