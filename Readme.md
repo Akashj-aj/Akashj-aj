@@ -151,8 +151,6 @@ akash@github:~$ status
 
 <img src="https://streak-stats.demolab.com/?user=Akashj-aj&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashj-aj&theme=react-dark&hide_border=true" />
-
 </div>
 
 <br>
