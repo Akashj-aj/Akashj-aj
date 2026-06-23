@@ -13,7 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Akashj-aj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-jayaram-92ba9b30b)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:akash14035@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Akashj-aj&label=Profile%20Views&color=000000&style=flat-square)
 
 </div>
 
