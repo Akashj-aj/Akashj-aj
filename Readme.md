@@ -8,38 +8,38 @@
 ██  ██ ██  ██ ██  ██ █████  ██  ██   ████
 ```
 
-</div>
-
-<div align="center">
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Akashj-aj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-jayaram-92ba9b30b)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:akash14035@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Akashj-aj&label=Profile%20Views&color=000000&style=flat-square)
 
 </div>
 
 <br>
 
-### About Me
+<div align="center"><h2>━━━━━━  THE BACKSTORY  ━━━━━━</h2></div>
 
-I'm a third-year AI and ML student at VVCE, Mysore. I build things that mix two skills nobody asked me to combine — model training and UI design.
+Third-year AIML student at VVCE, Mysore.
 
-I got into AI to build smart systems. Most days, I just argue with datasets and lose.
+Interested in AI, Full Stack Development, and building projects that solve problems instead of creating new ones.
 
-If a project is listed here, it runs. Mostly. I only show you the wins.
+I tend to stay with a problem until I understand it. Sometimes that helps me find the solution. Sometimes it teaches me why time management is important.
 
-<br>
-
-### Current Focus
-
-- Sharpening DSA before placement season catches me off guard
-- Building apps with real backends, since fake ones don't survive demo day
-- Testing models harder, because training them was always the easy part
-- Reading other people's code so mine eventually stops embarrassing me
+If you see it here, it works. If you don't see it here, it didn't. Simple.
 
 <br>
 
-### Tech Stack
+<div align="center"><h2>━━━━━━  WHAT I'M UP TO  ━━━━━━</h2></div>
+
+- Solving DSA problems so placements don't end my career before it starts
+- Building projects that continue working after the demo (most of the time)
+- Looking at other people's repos and discovering features I now want to build
+
+<br>
+
+<div align="center"><h2>━━━━━━  THE ARSENAL  ━━━━━━</h2></div>
 
 <div align="center">
 
@@ -48,12 +48,13 @@ If a project is listed here, it runs. Mostly. I only show you the wins.
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+
 
 **Web & Deployment**
 <br>
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square)
@@ -78,43 +79,86 @@ If a project is listed here, it runs. Mostly. I only show you the wins.
 
 <br>
 
-### Featured Projects
+<div align="center"><h2>━━━━━━  STUFF THAT ACTUALLY WORKS  ━━━━━━</h2></div>
 
-| Project | What it does | Built with | Link |
-|---|---|---|---|
-| **EmoTune** | Reads your face, judges your mood, picks your music | TensorFlow · OpenCV · Streamlit · Firebase | [Code](https://github.com/Akashj-aj/Moodify) |
-| **ShopSmart** | Bills, tracks, and remembers stock better than I do | Supabase · JavaScript | [Live](https://shopsmrt.netlify.app) · [Code](https://github.com/Akashj-aj/Retail_Billing_System) |
-| **Lumina Library** | Organizes eBooks I will probably never finish reading | HTML · CSS · JavaScript | [Live](https://luminalibrary.netlify.app) · [Code](https://github.com/Akashj-aj/Lumina-Library) |
-| **Real Estate Price Prediction** | Guesses house prices, occasionally without lying | Scikit-learn · Pandas · NumPy | Internship project |
+### [01] EmoTune
+
+> Looks at your face, decides how you feel, and recommends music accordingly.
+>
+> Surprisingly judgmental for a project.
+
+**Stack**  
+`TensorFlow` • `OpenCV` • `Streamlit` • `Firebase`
+
+**Link**  
+[Source Code](https://github.com/Akashj-aj/Moodify)
+
+---
+
+### [02] ShopSmart
+
+> Billing and inventory management system.
+>
+> Created because spreadsheets deserve competition.
+
+**Stack**  
+`HTML` • `CSS` • `JavaScript` • `Supabase`
+
+**Links**  
+[Live Demo](https://shopsmrt.netlify.app) • [Source Code](https://github.com/Akashj-aj/Retail_Billing_System)
+
+---
+
+### [03] Lumina Library
+
+> A digital library for organizing eBooks.
+>
+> Proof that collecting books and reading books are two different hobbies.
+
+**Stack**  
+`HTML` • `CSS` • `JavaScript` • `Supabase`
+
+**Links**  
+[Live Demo](https://luminalibrary.netlify.app) • [Source Code](https://github.com/Akashj-aj/Lumina-Library)
+
+---
+
+### [04] Real Estate Price Prediction
+
+> Predicts housing prices using regression models.
+>
+> The predictions are useful. The actual house prices are still terrifying.
+
+**Stack**  
+`Scikit-learn` • `Pandas` • `NumPy`
+
+**Type**  
+Virtual Internship Project
 
 <br>
 
-### Things I've Learned The Hard Way
+<div align="center"><h2>━━━━━━  HARD-WON WISDOM  ━━━━━━</h2></div>
 
-- Most bugs take minutes. The annoying ones take days and a personality change.
-- If it runs the first time, I check again. Something is wrong.
-- Localhost is not a deployment plan, no matter how confident it feels.
-- A model that's 99% accurate on my own data is not a win. It's a warning.
-- Every project ends with more documentation than I planned to write.
-- Firebase says no by default. At 2 a.m., that feels like a personal attack.
-- Stack Overflow has seen every mistake I've made, and judged me quietly for it.
+- A simple bug takes five minutes. A stupid bug takes two days and a new outlook on life.
+- Code running on the first attempt is not a blessing. It's suspicious.
+- AI tools can help write the solution. Understanding why it works is still my responsibility.
 
 <br>
 
-### Status
+<div align="center"><h2>━━━━━━  LIVE STATUS  ━━━━━━</h2></div>
 
 ```bash
 akash@github:~$ status
 
-> Building: ShopSmart v2, the sequel nobody requested
-> Learning: DSA, one painful problem at a time
-> Preparing: for placements, allegedly
-> Fixing: bugs I created an hour ago
+> Building : Mostly skills. Occasionally projects.
+> Learning : DSA, one painful problem at a time
+> Preparing: for placements, in theory
+> Fixing   : bugs I created an hour ago
 ```
 
 <br>
 
-### GitHub Analytics
+<div align="center"><h2>━━━━━━  PROOF OF WORK  ━━━━━━</h2></div>
 
 <div align="center">
 
@@ -133,6 +177,6 @@ akash@github:~$ status
 
 <div align="center">
 
-Written by someone who reads the docs only after blaming the framework first.
+Written by someone who uses AI to learn faster, but understanding is still the goal.
 
 </div>
