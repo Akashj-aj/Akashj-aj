@@ -39,7 +39,7 @@ If you see it here, it works. If you don't see it here, it didn't. Simple.
 
 <br>
 
-<div align="center"><h2>━━━━━━  THE ARSENAL  ━━━━━━</h2></div>
+<div align="center"><h2>━━━━━━  TOOLKIT  ━━━━━━</h2></div>
 
 <div align="center">
 
