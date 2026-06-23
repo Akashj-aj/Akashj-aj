@@ -121,7 +121,7 @@ Predicts housing prices using regression models.
 
 <br>
 
-<div align="center"><h2>━━━━━━  HARD-WON WISDOM  ━━━━━━</h2></div>
+<div align="center"><h2>━━━━━━  LESSONS LEARNED  ━━━━━━</h2></div>
 
 - A simple bug takes five minutes. A stupid bug takes two days and a new outlook on life.
 - Code running on the first attempt is not a blessing. It's suspicious.
