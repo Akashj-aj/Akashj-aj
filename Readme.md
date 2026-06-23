@@ -1,75 +1,118 @@
+<div align="center">
+
 ```
-┌──────────────────────────────────────────────┐
-│   A K A S H   J                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────┐
+│                                      │
+│        A K A S H   J                 │
+│                                      │
+│                                      │
+└──────────────────────────────────────┘
 ```
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Akashj-aj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-j)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:akash14035@gmail.com)
+
+</div>
+
+<br>
 
 ### About Me
 
-Third-year AI & ML engineering student at VVCE, Mysore. I spend most of my time somewhere between training models and styling buttons — full stack when the project needs a face, machine learning when it needs a brain.
+I'm a third-year AI and ML student at VVCE, Mysore. I build things that sit between two worlds — models on one side, interfaces on the other.
 
-I got into AI to build intelligent systems. Most days I'm negotiating with datasets instead.
+I got into AI to build smart systems. Most days, I'm just arguing with datasets.
 
-I ship small, working things rather than large, theoretical ones. If a project is on this profile, it runs.
+If a project is listed here, it runs. That's the only rule I keep.
+
+<br>
 
 ### Current Focus
 
-- Strengthening DSA fundamentals for placement season
-- Building full stack apps with real backends, not just static demos
-- Getting more deliberate about model evaluation instead of just model training
-- Reading other people's code to write less embarrassing versions of mine
+- Sharpening DSA before placement season starts
+- Building apps with real backends, not just demos
+- Testing models harder instead of just training them faster
+- Reading other people's code so mine reads better too
+
+<br>
 
 ### Tech Stack
 
+<div align="center">
+
 **Languages**
-`Python` `C` `C++` `JavaScript`
+<br>
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 
 **Web & Deployment**
-`HTML` `CSS` `JavaScript` `REST APIs` `Streamlit` `Netlify`
+<br>
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square)
 
 **Machine Learning / AI**
-`TensorFlow` `OpenCV` `Scikit-learn` `Pandas` `NumPy` `Feature Engineering` `Model Training`
+<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
 
 **Backend & Platforms**
-`Firebase` `Supabase` `Google Cloud` `Git` `GitHub`
+<br>
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+<br>
 
 ### Featured Projects
 
-**[EmoTune](https://github.com/Akashj-aj/Moodify)** — Emotion-based music recommender
-A CNN trained on facial expression data classifies mood in real time via webcam or upload, then maps it to a playlist. TensorFlow and OpenCV handle the vision side, Streamlit handles the interface, Firebase remembers what mood you were in last Tuesday.
-`TensorFlow` `OpenCV` `Streamlit` `Firebase`
+| Project | What it does | Built with | Link |
+|---|---|---|---|
+| **EmoTune** | Reads your face, picks your music | TensorFlow · OpenCV · Streamlit · Firebase | [Code](https://github.com/Akashj-aj/Moodify) |
+| **ShopSmart** | Bills, tracks, and remembers your inventory | Supabase · JavaScript | [Live](https://shopsmrt.netlify.app) · [Code](https://github.com/Akashj-aj/Retail_Billing_System) |
+| **Lumina Library** | Organizes and opens your eBooks | HTML · CSS · JavaScript | [Live](https://luminalibrary.netlify.app) · [Code](https://github.com/Akashj-aj/Lumina-Library) |
+| **Real Estate Price Prediction** | Guesses house prices, sometimes well | Scikit-learn · Pandas · NumPy | Internship project |
 
-**[ShopSmart](https://github.com/Akashj-aj/Retail_Billing_System)** — Retail billing system · [Live](https://shopsmrt.netlify.app)
-Full stack billing and inventory app with authentication, product management, and order tracking, backed by Supabase. Built to handle the unglamorous but essential parts of running a store.
-`Supabase` `JavaScript` `Authentication`
-
-**[Lumina Library](https://github.com/Akashj-aj/Lumina-Library)** — Digital library application · [Live](https://luminalibrary.netlify.app)
-A static web app for organizing and reading a personal eBook collection, with search and categorization built in. No backend, no build step, no excuses for it not working.
-`HTML` `CSS` `JavaScript`
-
-**Real Estate Price Prediction** — Regression-based price estimation
-Built during a virtual internship: cleaned and engineered features from structured housing data, then compared regression algorithms using RMSE to pick the one that lied the least.
-`Scikit-learn` `Pandas` `NumPy`
+<br>
 
 ### Things I've Learned The Hard Way
 
-- Most bugs are fixed in minutes. The interesting ones become personal.
-- "It works on localhost" is not a deployment strategy.
-- If it works on the first run, I assume I forgot to test something.
-- A model with 99% accuracy on a dataset I built myself is not an achievement, it's a warning.
-- My projects usually start with curiosity and end with documentation.
-- Firebase rules deny everything by default, and at 2 a.m. that feels personal.
+- Most bugs take minutes. The annoying ones take days and a personality change.
+- If it runs the first time, I check again. Something is wrong.
+- Localhost is not a deployment plan.
+- A model that's 99% accurate on my own data is not a win. It's a warning.
+- Every project ends with more documentation than I planned to write.
+- Firebase says no by default. At 2 a.m., that feels personal.
+
+<br>
 
 ### Status
 
 ```bash
 akash@github:~$ status
 
-> Building: ShopSmart v2 (because v1 had opinions)
-> Learning: DSA, one frustrating problem at a time
-> Preparing: for placement season
-> Converting: bugs into something resembling experience
+> Building: ShopSmart v2
+> Learning: DSA, slowly
+> Preparing: for placements
+> Fixing: bugs, one at a time
 ```
+
+<br>
 
 ### GitHub Analytics
 
@@ -84,15 +127,12 @@ akash@github:~$ status
 
 </div>
 
-### Connect
-
-<!-- Replace the LinkedIn URL below with your actual profile link -->
-[GitHub](https://github.com/Akashj-aj) · [LinkedIn](https://linkedin.com/in/akash-j) · [Email](mailto:akash14035@gmail.com)
+<br>
 
 ---
 
 <div align="center">
 
-Built by someone who reads documentation only after something breaks.
+Written by someone who debugs first and reads the docs after.
 
 </div>
