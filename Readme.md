@@ -145,7 +145,7 @@ akash@github:~$ status
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akashj-aj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashj-aj&layout=compact&theme=dark&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashj-aj&layout=compact&theme=dark&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=Akashj-aj&theme=dark&hide_border=true" />
